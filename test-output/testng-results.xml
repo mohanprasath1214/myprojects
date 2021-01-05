@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48013" started-at="2021-01-05T15:29:08Z" finished-at="2021-01-05T15:29:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48013" started-at="2021-01-05T15:29:08Z" finished-at="2021-01-05T15:29:56Z">
+      <class name="com.loginpage_Tc.Venue_tc">
+        <test-method status="PASS" signature="launchbrowser1()[pri:0, instance:com.loginpage_Tc.Venue_tc@1e88b3c]" name="launchbrowser1" is-config="true" duration-ms="22930" started-at="2021-01-05T15:29:08Z" finished-at="2021-01-05T15:29:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser1 -->
+        <test-method status="PASS" signature="login1()[pri:0, instance:com.loginpage_Tc.Venue_tc@1e88b3c]" name="login1" duration-ms="22746" started-at="2021-01-05T15:29:31Z" finished-at="2021-01-05T15:29:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.loginpage_Tc.Venue_tc@1e88b3c]" name="closebrowser" is-config="true" duration-ms="2111" started-at="2021-01-05T15:29:54Z" finished-at="2021-01-05T15:29:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.loginpage_Tc.Venue_tc -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
